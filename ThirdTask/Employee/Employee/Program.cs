@@ -21,8 +21,6 @@ namespace Employee
         public static double DiscoverGrade(string recruitmentDate)
         {
             double dateValueForGrade = (DateTime.Now - DateTime.Parse(recruitmentDate)).TotalDays;
-            Console.WriteLine(dateValueForGrade);
-
             if (dateValueForGrade >= 1825 && dateValueForGrade < 3650)
                 return 1.1;
             else if (dateValueForGrade >= 3650)
