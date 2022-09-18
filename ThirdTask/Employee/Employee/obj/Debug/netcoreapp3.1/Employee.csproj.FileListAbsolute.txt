@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\уу\Учеба\ооп\ThirdTask\Employee\Employee\bin\Debug\netcoreapp3.1\Employee.exe
+C:\Users\Admin\Desktop\уу\Учеба\ооп\ThirdTask\Employee\Employee\bin\Debug\netcoreapp3.1\Employee.deps.json
+C:\Users\Admin\Desktop\уу\Учеба\ооп\ThirdTask\Employee\Employee\bin\Debug\netcoreapp3.1\Employee.runtimeconfig.json
+C:\Users\Admin\Desktop\уу\Учеба\ооп\ThirdTask\Employee\Employee\bin\Debug\netcoreapp3.1\Employee.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\уу\Учеба\ооп\ThirdTask\Employee\Employee\bin\Debug\netcoreapp3.1\Employee.dll
+C:\Users\Admin\Desktop\уу\Учеба\ооп\ThirdTask\Employee\Employee\bin\Debug\netcoreapp3.1\Employee.pdb
+C:\Users\Admin\Desktop\уу\Учеба\ооп\ThirdTask\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\уу\Учеба\ооп\ThirdTask\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\уу\Учеба\ооп\ThirdTask\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.AssemblyInfo.cs
+C:\Users\Admin\Desktop\уу\Учеба\ооп\ThirdTask\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\уу\Учеба\ооп\ThirdTask\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.dll
+C:\Users\Admin\Desktop\уу\Учеба\ооп\ThirdTask\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.pdb
+C:\Users\Admin\Desktop\уу\Учеба\ооп\ThirdTask\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.genruntimeconfig.cache
