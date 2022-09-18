@@ -1,7 +1,6 @@
 ﻿using System;
 
-namespace Employee
-{
+
     class Employee
     {
         public string name;
@@ -75,4 +74,3 @@ namespace Employee
             Console.ReadKey();
         }
     }
-}
