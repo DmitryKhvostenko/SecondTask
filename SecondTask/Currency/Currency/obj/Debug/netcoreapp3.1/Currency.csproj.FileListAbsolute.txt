@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\уу\Учеба\ооп\Currency\Currency\Currency\bin\Debug\netcoreapp3.1\Currency.exe
+C:\Users\Admin\Desktop\уу\Учеба\ооп\Currency\Currency\Currency\bin\Debug\netcoreapp3.1\Currency.deps.json
+C:\Users\Admin\Desktop\уу\Учеба\ооп\Currency\Currency\Currency\bin\Debug\netcoreapp3.1\Currency.runtimeconfig.json
+C:\Users\Admin\Desktop\уу\Учеба\ооп\Currency\Currency\Currency\bin\Debug\netcoreapp3.1\Currency.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\уу\Учеба\ооп\Currency\Currency\Currency\bin\Debug\netcoreapp3.1\Currency.dll
+C:\Users\Admin\Desktop\уу\Учеба\ооп\Currency\Currency\Currency\bin\Debug\netcoreapp3.1\Currency.pdb
+C:\Users\Admin\Desktop\уу\Учеба\ооп\Currency\Currency\Currency\obj\Debug\netcoreapp3.1\Currency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\уу\Учеба\ооп\Currency\Currency\Currency\obj\Debug\netcoreapp3.1\Currency.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\уу\Учеба\ооп\Currency\Currency\Currency\obj\Debug\netcoreapp3.1\Currency.AssemblyInfo.cs
+C:\Users\Admin\Desktop\уу\Учеба\ооп\Currency\Currency\Currency\obj\Debug\netcoreapp3.1\Currency.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\уу\Учеба\ооп\Currency\Currency\Currency\obj\Debug\netcoreapp3.1\Currency.dll
+C:\Users\Admin\Desktop\уу\Учеба\ооп\Currency\Currency\Currency\obj\Debug\netcoreapp3.1\Currency.pdb
+C:\Users\Admin\Desktop\уу\Учеба\ооп\Currency\Currency\Currency\obj\Debug\netcoreapp3.1\Currency.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WQ8kaAqYymo9N1IWz9BqhElHFqZtfiwJxkqlbw0p1d8UWrWoiUI5D4nv9nUGmgYfo0C/iNIO6iCfMfDRw3qovA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\уу\\Учеба\\ооп\\Currency\\Currency\\Currency\\Currency.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
